@@ -1,0 +1,7 @@
+name: SpawnTP
+version: '1.0-SNAPSHOT'
+main: dev.philippcmd.spawnTP.SpawnTP
+api-version: '1.21'
+
+commands:
+  spawn:
